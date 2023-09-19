@@ -1,5 +1,9 @@
 # Report and analysis on the 'Slash' project
 
+## Video
+
+Slash Phase 3 Execution [Video](https://youtu.be/aUTJ3IwL0uY)
+
 ## Introduction
 
 This report reflects on our experiences and challenges as graduate students undertaking Software Engineering Project 1. The project we embarked on involved the evaluation and execution of an existing project titled 'Slash,' developed by previous-year students. 'Slash' aimed to provide a publicly accessible web API framework for retrieving the best deals from renowned e-commerce websites. While the project's potential was evident, it was not without its share of challenges. In this reflective analysis, we will delve deeper into the challenges we encountered, elaborate on strategies for mitigating these challenges in future projects, and underscore our commitment to implementing best practices.
