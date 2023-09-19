@@ -1,8 +1,22 @@
-# Report and analysis on the 'Slash' project
+# Part 1
+
+## Grading Rubrics
+
+### 1. [CheapBuy](https://github.com/abhi934/CSC510_SE_Group_60/blob/main/proj1/CheapBuy.MD)
+### 2. [Simplii](https://github.com/abhi934/CSC510_SE_Group_60/blob/main/proj1/Simplii.MD)
+### 3. [Slash](https://github.com/abhi934/CSC510_SE_Group_60/blob/main/proj1/Slash.MD)
+### 4. [TeachersPetBot](https://github.com/abhi934/CSC510_SE_Group_60/blob/main/proj1/TeachersPetBot.MD)
+### 5. [WolfTrack3.0](https://github.com/abhi934/CSC510_SE_Group_60/blob/main/proj1/WolfTrack.MD)
+
+# Part 2
 
 ## Video
 
-Slash Phase 3 Execution [Video](https://youtu.be/aUTJ3IwL0uY)
+### Slash Phase 3 Execution [Video](https://youtu.be/aUTJ3IwL0uY)
+
+# Part 3
+
+# Report and analysis on the 'Slash' project
 
 ## Introduction
 
